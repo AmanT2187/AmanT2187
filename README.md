@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @AmanT2187
-- 👀 I’m interested in Android development
+- 👀 I’m interested in Application development
+- 🤖 Using Flutter Dart, Java, Kotlin
 - 🌱 I’m currently learning Java and DS Algo
-- 💞️ I’m looking to collaborate on Android development
+- 🌱 I’m Working on Flutter Projects
+- 💞️ I’m looking to collaborate on Application developers
 - 📫 How to reach me  contact or whatsapp +91 7056222557
 
 <!---
